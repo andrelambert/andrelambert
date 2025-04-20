@@ -6,10 +6,11 @@
 
 
 ## My name is André Lambert
-(Java | Spring Boot | AWS | React JS | Angular | Typescript | Javascript | HTML | CSS ) 🚀
+(Python | Java | Spring Boot | React JS | Angular | Typescript | Javascript | HTML | TailwindCSS | CSS ) 🚀
 - 👨🏻‍💻Support & Development Analyst @[CWS Platform](https://www.cws-platform.com/)
-- 🎓 Bachelor's degree in Software Engineering 
+- 🎓 Bachelor's degree in Software Engineering
 
+[![André Lambert's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelambert)](https://github.com/andrelambert/github-readme-stats)
 
 <div align="left">
   
