@@ -12,4 +12,3 @@
 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelambert&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 
-[![André Lambert's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelambert)](https://github.com/andrelambert/github-readme-stats)
