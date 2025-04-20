@@ -10,10 +10,6 @@
 - 👨🏻‍💻Support & Development Analyst @[CWS Platform](https://www.cws-platform.com/)
 - 🎓 Bachelor's degree in Software Engineering
 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelambert&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+
 [![André Lambert's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrelambert)](https://github.com/andrelambert/github-readme-stats)
-
-<div align="left">
-  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrelambert&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
-
- </div>
