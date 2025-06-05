@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Hi, my name is André Lambert and I'm 27 years old.<br>🎓 Currently getting my Bachelor's degree in Software Engineering @ FIAP<br>⌨️ I work as Support & Development analyst @ CWS Plataform<br>🎮 Nintendo enthusiast<br>☕ Addicted to specialty coffee<br>🎺 Jazz lover & vinyl collector, also into Hi-Fi<br>🚴🏻 Amateur cyclist<br>📸 Previously worked as a fashion photographer
+👨🏻‍💻 Hi, my name is André Lambert and I'm 27 years old.<br>🎓 Currently getting my Bachelor's degree in Software Engineering @ FIAP<br>⌨️ I work as a Customer Engineer at Belvo<br>🎮 Nintendo enthusiast<br>☕ Addicted to specialty coffee<br>🎺 Jazz lover & vinyl collector, also into Hi-Fi<br>🚴🏻 Amateur cyclist<br>📸 Previously worked as a fashion photographer
 
 
 ## 🌐 Socials:
